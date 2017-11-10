@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/httpoz/go_server_space_monitor)](https://goreportcard.com/report/github.com/httpoz/go_server_space_monitor)
+
 ## Installation
 Clone this repo.
 
